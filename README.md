@@ -10,10 +10,7 @@ posttoworkplace.js
 
 This is a raw javascript that enab le the bookmarket shortcut to work. Create a new shortcut on the Bookmarks bar and copy and past the code from the posttoworkplace.js file in to the URL field.  Give it a name like Post to Workplace and save.
 
-
-<a href="https://github.com/lylecoke/workplacebookmarlet/blob/master/posttoworkplace.js"><img class="img" src="https://static.xx.fbcdn.net/rsrc.php/v3/yG/r/MZzsevL7o4c.png" alt="Share on Workplace" width="100" height="24" /></a> <br>Drag me to your bookmarks bar
-
-Wiki Page
+Workplace bookmarlet Wiki Page
 https://github.com/lylecoke/workplacebookmarlet/wiki
 
 Lyle Edwards | 
