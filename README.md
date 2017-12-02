@@ -18,7 +18,7 @@ window.open(url,'sharer',options);})();
 
 Lyle Edwards | 
 Enterprise Architect | 
-Collaboration, Employee Expereince, HR, DevOps, IT Tools | 
+Collaboration, Employee Experience, HR, DevOps, IT Tools | 
 The Coca-Cola Company
 
 Dec 02, 2017
