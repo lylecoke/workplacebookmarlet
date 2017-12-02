@@ -1,5 +1,5 @@
 # workplacebookmarlet
-The Workplace bookmarlet was created to enable easy one button publishing of any web page from a web browser to Workplace.  This will allow greater levels or particpation and adoption by making it rediculously easy to post new and engaging content to Workplace.
+I created the Workplace bookmarlet to enable easy one button publishing of any web page from a web browser to Workplace. This will allow greater levels or particpation and adoption by making it rediculously easy to post new and engaging content to Workplace.
 
 ShareOnWorkplace-Bookmarklet.html
 
