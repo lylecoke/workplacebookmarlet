@@ -14,9 +14,9 @@ url = 'https://work.facebook.com/sharer.php?display=popup&u=' + window.location.
 options = 'toolbar=0,status=0,resizable=1,width=626,height=436';    
 window.open(url,'sharer',options);})();
 
-Lyle Edwards
-Enterprise Architect
-Collaboration, Employee Expereince, HR, DevOps, IT Tools
+Lyle Edwards.
+Enterprise Architect.
+Collaboration, Employee Expereince, HR, DevOps, IT Tools.
 The Coca-Cola Company
 
 Dec 02, 2017
