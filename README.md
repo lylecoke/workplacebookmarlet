@@ -8,7 +8,7 @@ Download the file, then open it with your browser and drag the Workplace image t
 
 posttoworkplace.js
 
-This is a raw javascript that enab le the bookmarket shortcut to work. Create a new shortcut on the Bookmarks bar and copy and past the code from the posttoworkplace.js file in to the URL field.  Give it a name like Post to Workplace and save.
+This is a raw javascript that enable the bookmarket shortcut to work. Create a new shortcut on the Bookmarks bar and copy and past the code from the posttoworkplace.js file in to the URL field.  Give it a name like Post to Workplace and save.
 
 Workplace bookmarlet Wiki Page
 https://github.com/lylecoke/workplacebookmarlet/wiki
