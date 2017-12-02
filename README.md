@@ -16,6 +16,9 @@ url = 'https://work.facebook.com/sharer.php?display=popup&u=' + window.location.
 options = 'toolbar=0,status=0,resizable=1,width=626,height=436';    
 window.open(url,'sharer',options);})();
 
+Wiki Page
+https://github.com/lylecoke/workplacebookmarlet/wiki
+
 Lyle Edwards | 
 Enterprise Architect | 
 Collaboration, Employee Experience, HR, DevOps, IT Tools | 
